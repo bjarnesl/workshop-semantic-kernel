@@ -1,0 +1,4 @@
+﻿ What is the intent of this request? Answer with one word. If you are unsure, dont guess, answer Other.
+ You can choose between EndConversation, Other.
+ Request: {{$userRequest}}
+ Intent:

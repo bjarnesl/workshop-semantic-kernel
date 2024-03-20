@@ -1,0 +1,2 @@
+﻿If the provided message mentions any previous diseases, 
+please retrieve the diseases as comma separated list: {{$message}}

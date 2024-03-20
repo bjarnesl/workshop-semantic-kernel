@@ -1,0 +1,12 @@
+﻿{
+  "schema": 1,
+  "type": "completion",
+  "description": "Retrieves a comma separated list of diseases from a message",
+  "input_variables": [
+    {
+      "Name": "message",
+      "Description": "This is the message where we are looking for mentions of previous diseases",
+      "required": true
+    }
+  ]
+}

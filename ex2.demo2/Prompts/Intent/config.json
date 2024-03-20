@@ -1,0 +1,12 @@
+﻿{
+  "schema": 1,
+  "type": "completion",
+  "description": "Creates a chat response to the user",
+  "input_variables": [
+    {
+      "Name" : "userRequest",
+      "Description" : "This is the request from the user",
+      "required": true
+    }
+  ]
+}
